@@ -48,6 +48,8 @@ A collection of WebDev Resources
 
 ## VS Code
 
+### Icons
+- Material Icons (More, better icons) = https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 ### Themes
 
 - theme browsing [why code when can theme?] - https://vscodethemes.com/
