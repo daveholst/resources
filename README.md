@@ -134,6 +134,11 @@ A collection of WebDev Resources
 ### Mac
 
 - Alfred (better spotlight) - https://www.alfredapp.com/
+  - bear - https://github.com/drgrib/alfred-bear
+  - convert - https://github.com/deanishe/alfred-convert
+  - copySSH - https://github.com/nickytonline/alfred-workflows
+  - GitHub - https://github.com/gharlan/alfred-github-workflow
+  - kill proc - https://github.com/nathangreenstein/alfred-process-killer
 - iTerm2 (better terminal) - https://iterm2.com/
   - oh my zsh (zsh++) - https://github.com/ohmyzsh/ohmyzsh
   - cobalt2 theme - https://github.com/wesbos/Cobalt2-iterm
@@ -141,6 +146,7 @@ A collection of WebDev Resources
 - timeMachineEditor - https://tclementdev.com/timemachineeditor/
 - BTT (touchBar, mappings, gestures)https://folivora.ai/
 - Rectangle (window snaps) - https://rectangleapp.com/
+- AltTab - https://alt-tab-macos.netlify.app/
 - Break Timer - https://breaktimer.app/
 - Tunnelblick (vpn client) - https://tunnelblick.net/
 - BEAR (notes in MD) - https://bear.app/
