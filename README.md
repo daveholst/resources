@@ -25,11 +25,12 @@ A collection of WebDev Resources
 
 ### Tools
 
-- KeyCodeEvents - http://keycode.info/
+- Keyboard Events - http://keycode.info/
 
 ### node
 
-- nodemon - https://www.npmjs.com/package/nodemon
+- auto refresh server monitoring - https://www.npmjs.com/package/nodemon
+- environment variables from file - https://www.npmjs.com/package/dotenv
 
 ## git / GitHub
 
@@ -45,6 +46,19 @@ A collection of WebDev Resources
 - coding train - https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK
 
 - colt steele - https://www.youtube.com/watch?v=USjZcfj8yxE&t=333s
+
+## Chrome
+
+### Extensions
+
+- bitWarden - https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en
+- Dark Reader - https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en
+- floccus bookmark sync - https://chrome.google.com/webstore/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg
+- JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+- newTab Redirect - https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
+- Reddit ES - https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb
+- uBlock Origin - https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+- WebPage Screenshot - https://chrome.google.com/webstore/detail/webpage-screenshot-entire/akgpcdalpfphjmfifkmfbpdmgdmeeaeo?hl=en
 
 ## VS Code
 
@@ -91,7 +105,51 @@ A collection of WebDev Resources
 - Traversy Media - https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 - Web Dev Simp[lified] - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
 - Wes Bos - https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA
+- Program with Mosh - https://www.youtube.com/user/programmingwithmosh
 
 ## Podcasts
 
 - syntax.fm (Wes Bos & Scott Tollinski) - https://syntax.fm/
+
+## DevOps / Hosting
+
+### Domains
+
+- Namecheap - https://www.namecheap.com/
+- GoDaddy - https://au.godaddy.com/
+- Hover - https://www.hover.com/
+
+### Hosting
+
+- Netlify (Static) - https://www.netlify.com/
+- Heroku (node) - https://dashboard.heroku.com/login
+
+### VPS
+
+- DigitalOcean - https://www.digitalocean.com/
+- Linode - https://www.linode.com/
+
+## Software
+
+### Mac
+
+- Alfred (better spotlight) - https://www.alfredapp.com/
+- iTerm2 (better terminal) - https://iterm2.com/
+  - oh my zsh (zsh++) - https://github.com/ohmyzsh/ohmyzsh
+  - cobalt2 theme - https://github.com/wesbos/Cobalt2-iterm
+- iStat (top bar stats) - https://bjango.com/mac/istatmenus/
+- timeMachineEditor - https://tclementdev.com/timemachineeditor/
+- BTT (touchBar, mappings, gestures)https://folivora.ai/
+- Rectangle (window snaps) - https://rectangleapp.com/
+- Break Timer - https://breaktimer.app/
+- Tunnelblick (vpn client) - https://tunnelblick.net/
+- BEAR (notes in MD) - https://bear.app/
+- Fantastical (calendar) - https://flexibits.com/fantastical
+- Spark (email client) - https://sparkmailapp.com/
+
+### Windows
+
+- WSL 2 (Linux CLI / VM) - https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- Notepad++ - https://notepad-plus-plus.org/downloads/
+- Putty (SSH client) - https://www.putty.org/
+- gitBASH - https://gitforwindows.org/
