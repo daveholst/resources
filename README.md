@@ -46,6 +46,10 @@ A collection of WebDev Resources
 - coding train - https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK
 
 - colt steele - https://www.youtube.com/watch?v=USjZcfj8yxE&t=333s
+## Databases
+
+### Design Tools
+- dbdiamgram.io https://dbdiagram.io/home
 
 ## Chrome
 
