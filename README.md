@@ -158,6 +158,7 @@ A collection of WebDev Resources
 - BEAR (notes in MD) - https://bear.app/
 - Fantastical (calendar) - https://flexibits.com/fantastical
 - Spark (email client) - https://sparkmailapp.com/
+- Insomnia API Designer/Client - https://insomnia.rest/
 
 ### Windows
 
