@@ -159,10 +159,12 @@ A collection of WebDev Resources
 - Fantastical (calendar) - https://flexibits.com/fantastical
 - Spark (email client) - https://sparkmailapp.com/
 - Insomnia API Designer/Client - https://insomnia.rest/
-
+- Sequel Ace (mySQL Client) - https://github.com/Sequel-Ace/Sequel-Ace
 ### Windows
 
 - WSL 2 (Linux CLI / VM) - https://docs.microsoft.com/en-us/windows/wsl/install-win10
 - Notepad++ - https://notepad-plus-plus.org/downloads/
 - Putty (SSH client) - https://www.putty.org/
 - gitBASH - https://gitforwindows.org/
+- Insomnia API Designer/Client - https://insomnia.rest/
+
