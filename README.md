@@ -160,6 +160,8 @@ A collection of WebDev Resources
 - Spark (email client) - https://sparkmailapp.com/
 - Insomnia API Designer/Client - https://insomnia.rest/
 - Sequel Ace (mySQL Client) - https://github.com/Sequel-Ace/Sequel-Ace
+- Robo3T (mongo Client) - https://robomongo.org/
+- boop (code snippets / converter) - https://boop.okat.best/
 ### Windows
 
 - WSL 2 (Linux CLI / VM) - https://docs.microsoft.com/en-us/windows/wsl/install-win10
